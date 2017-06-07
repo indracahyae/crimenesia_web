@@ -108,7 +108,7 @@ class CrudAdmin extends Controller
      */
     public function create()
     {
-        echo "form admin";
+        echo "form admin"; 
     }
 
     /**
