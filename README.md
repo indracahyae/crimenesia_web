@@ -21,5 +21,3 @@ The Database file name is [db.sql](https://github.com/indracahyae/crimenesia_web
 * [jQuery](https://jquery.com/) (javascript UI library)
 * [Semantic](https://semantic-ui.com/) (UI Framework)
 * [Noty](https://ned.im/noty/#/) (javascript library for notification)
-
-##  Screen Shoot Application
