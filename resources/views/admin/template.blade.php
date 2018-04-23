@@ -1,10 +1,10 @@
-
 <!doctype html>
 <html class="no-js" lang="en">
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="_token" content="{{ csrf_token() }}"/>
+    <meta name="url" content="{{url('/')}}" />
     <title>@yield('page_title')</title>
     <link rel="stylesheet" href="{{asset('css/admin/admin.css')}}">
 
@@ -49,9 +49,10 @@
         <!-- <a href="" class="item">Crime Nesia</a> -->
 
         <div class="right menu">
-                        
-            <a href="{{url('keluhanAdmin')}}" class="item"><i class="spy icon"></i> Police</a>
-            <a href="{{url('keluhanAdmin')}}" class="item"><i class="user icon"></i> Society</a>
+            
+            <a href="{{url('vPoliceStation')}}" class="item"><i class="building icon"></i> Police Station</a>      
+            <a href="{{url('vPolice')}}" class="item"><i class="spy icon"></i> Police</a>
+            <a href="{{url('vSociety')}}" class="item"><i class="user icon"></i> Society</a>
                    
             <div class="ui dropdown icon item">
                 <i class="ui teal horizontal label topUsername">{{session('loginAdmin.username')}}</i>
