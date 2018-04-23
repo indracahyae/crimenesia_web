@@ -1,4 +1,4 @@
-var urlWeb = "http://"+window.location.hostname+":8000"; // ganti jika di hosting
+var urlWeb = $('meta[name="url"]').attr('content');
 
 // JS LOGIN
 $(document).ready(function(){

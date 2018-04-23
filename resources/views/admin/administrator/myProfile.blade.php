@@ -7,7 +7,7 @@
 @endsection
 
 @section('page_content')
-	<div class="ui centered card">
+	<div class="ui centered teal card">
 	  <div class="image myAccountAdmin">
 	    <img class="foto myAccountAdmin" src="{{asset('img/'.$foto)}}">
 	  </div>
@@ -37,11 +37,11 @@
 	  </div>
 	  <div class="extra content">
 	  	<a class="left floated user">
-	      <i class="user icon"></i>
+	      <i class="user teal icon"></i>
 	      <i class="username myAccountAdmin">{{$username}}</i>
 	    </a>
 	    <a class="right floated edit btn editMyAccount">
-	      <i class="edit icon"></i>
+	      <i class="edit teal icon"></i>
 	      edit
 	    </a>
 	  </div>
@@ -76,7 +76,7 @@
                         	<div class="fluid ui buttons">
 	                        	<a class="ui cancel button myProfileAdmin">Cancel</a>
 	                            <div class="or"></div>
-	                            <button type="submit" class="ui positive button updateMyAccount">Save</button>
+	                            <button type="submit" class="ui primary button updateMyAccount">Save</button>
 	                        </div>	
                         </div>
                     </form>

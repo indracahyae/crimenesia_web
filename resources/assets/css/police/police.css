@@ -1,0 +1,58 @@
+/*css login admin*/
+.police-login-body {
+    background-color: lightgrey;
+    padding-top: 50px; 
+}
+.titleContainerLable{
+	background-color: #008080 !important;
+	color: white !important;
+}
+
+/* app */
+body.police{
+    background-color: #ecf0f1;
+}
+body.pushable{
+	background-color: #ecf0f1 !important;
+}
+
+.pusher{
+	background-color: #ecf0f1 !important;
+	min-height: 700px !important;
+}
+.ui.container{
+    margin-top: 70px;
+    padding: 20px !important;
+    width: 100%;
+}
+.ui.icon.menu{
+	margin:0px;
+}
+
+.ui.menu.fixed.mobile-menu{
+	display: none !important;
+}
+
+.primary.button{
+	background-color: #00B5AD !important;
+}
+
+.content.cbFilterCrimeByCategory{
+	height: 500px !important;
+}
+
+
+@media only screen and (max-width: 768px) {
+	.ui.menu.fixed.default-menu{
+		display: none !important;
+	}
+	.ui.menu.fixed.mobile-menu{
+		display: flex !important;
+	}
+
+	.ui.container{
+		margin-top: 60px;
+	    padding: 5px !important;
+	}
+}
+
