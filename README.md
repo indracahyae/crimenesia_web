@@ -64,3 +64,30 @@ This is Form (create & edit) Admin.
 This is login page.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/login.png?raw=true)
 <br><br>
+Top Menu.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/menu1.png?raw=true)
+<br><br>
+Top Menu.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/menu2.png?raw=true)
+<br><br>
+Profile page.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/profile.png?raw=true)
+<br><br>
+This is manage doer.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/managePelaku.png?raw=true)
+<br><br>
+This is form (create & edit) doer.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/managePelakuForm.png?raw=true)
+<br><br>
+This is manage crime.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrime.png?raw=true)
+<br><br>
+This is detail Crime.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrimeDetailData.png?raw=true)
+<br><br>
+This is form (create & edit) Crime.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrimeForm.png?raw=true)
+<br><br>
+crime menu.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrimeMenu.png?raw=true)
+<br><br>
