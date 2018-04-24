@@ -25,7 +25,7 @@ The Database file name is [db.sql](https://github.com/indracahyae/crimenesia_web
 ##  Screen Shoot Application
 ###  Screen Shoot of Administrator
 This is a login page, using AJAX.
-![](https://github.com/indracahyae/crimenesia_web/blob/master/img/login.png?raw=true)
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/login.png?raw=true)
 <br><br>
 ###  Screen Shoot of Police
 
