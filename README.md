@@ -91,3 +91,21 @@ This is form (create & edit) Crime.
 crime menu.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrimeMenu.png?raw=true)
 <br><br>
+This is complaint pages.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/listDataLapor.png?raw=true)
+<br><br>
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/laporDetailKriminalitas.png?raw=true)
+<br><br>
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/laporDetailBuktiKriminalitas.png?raw=true)
+<br><br>
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/dataLaporPolice.png?raw=true)
+<br><br>
+This is police members pages.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/anggotaPolisi.png?raw=true)
+<br><br>
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/cariAnggotaPolisi.png?raw=true)
+<br><br>
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/detailAnggotaPolisi.png?raw=true)
+<br><br>
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/formAnggotaPolisi.png?raw=true)
+<br><br>
