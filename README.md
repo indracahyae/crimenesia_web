@@ -33,5 +33,32 @@ Top Menu.
 Profile page.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/profile.png?raw=true)
 <br><br>
+This is manage society page.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageSociety.png?raw=true)
+<br><br>
+This is detail society.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageSocietyDetail.png?raw=true)
+<br><br>
+This is manage Police Station page.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceStation.png?raw=true)
+<br><br>
+This is detail Police Station.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceStationDetail.png?raw=true)
+<br><br>
+This is form (create & edit) Police Station.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceStationForm.png?raw=true)
+<br><br>
+This is manage Police page.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePolice.png?raw=true)
+<br><br>
+This is detail Police.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceDetail.png?raw=true)
+<br><br>
+This is manage Admin page.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageAdmin.png?raw=true)
+<br><br>
+This is Form (create & edit) Admin.
+![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageAdminForm.png?raw=true)
+<br><br>
 ###  Screen Shoot of Police
 
